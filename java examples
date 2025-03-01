@@ -51,4 +51,11 @@ public class Largest {
         }
     }
 }
+5)to find a square root of a number
+public class Main {
+  public static void main(String[] args) {
+    System.out.println(Math.sqrt(64));  
+  }
+}
+
 
